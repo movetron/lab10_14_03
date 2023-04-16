@@ -1,0 +1,11 @@
+A:\МДК 01.01\base_alg\lab10-master\lab10\bin\Debug\lab10.exe.config
+A:\МДК 01.01\base_alg\lab10-master\lab10\bin\Debug\lab10.exe
+A:\МДК 01.01\base_alg\lab10-master\lab10\bin\Debug\lab10.pdb
+A:\МДК 01.01\base_alg\lab10-master\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\lab10-master\lab10\obj\Debug\lab10.csproj.SuggestedBindingRedirects.cache
+A:\МДК 01.01\base_alg\lab10-master\lab10\obj\Debug\lab10.Properties.Resources.resources
+A:\МДК 01.01\base_alg\lab10-master\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+A:\МДК 01.01\base_alg\lab10-master\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\lab10-master\lab10\obj\Debug\lab10.exe
+A:\МДК 01.01\base_alg\lab10-master\lab10\obj\Debug\lab10.pdb
+A:\МДК 01.01\base_alg\lab10-master\lab10\obj\Debug\lab10_14_03.Form1.resources
